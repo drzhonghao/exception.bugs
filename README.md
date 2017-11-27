@@ -12,5 +12,6 @@ In the model folder, we list our repair models. More details of the models are p
 
 [1]  M. Martinez and M. Monperrus. Mining software repair models for reasoning on the search space of automated program fixing. Empirical
 Software Engineering, 20(1):176¨C205, 2013.
+
 [2] H. Zhong and H. Mei. Mining Repair Model for Exception-Related Bug. In submission. 2017  
   
