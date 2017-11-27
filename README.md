@@ -1,1 +1,1 @@
-# exception.bugs
+# The benchmark for exception-related bugs
