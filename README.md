@@ -6,4 +6,11 @@ This repository contains the benchmark for exception-related bugs. From the five
 
 2. exception_bug.txt lists the mappings from mentioned exceptions to bug reports.
 
-3. bug_revision.txt lists the mappings from bug reports to revisions. The revisions are extracted by ChangeDistiller.  
+3. bug_revision.txt lists the mappings from bug reports to revisions. The revisions are extracted by ChangeDistiller.
+
+In the model folder, we list our repair models. More details of the models are presented in the following papers:
+
+[1]  M. Martinez and M. Monperrus. Mining software repair models for reasoning on the search space of automated program fixing. Empirical
+Software Engineering, 20(1):176¨C205, 2013.
+[2] H. Zhong and H. Mei. Mining Repair Model for Exception-Related Bug. In submission. 2017  
+  
